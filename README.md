@@ -482,7 +482,7 @@ Skills:
 GitHub: https://github.com/swapitsneil
 
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/swapnil-nicolson-dadel/
 
 ---
 
