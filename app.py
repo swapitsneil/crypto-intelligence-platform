@@ -22,6 +22,11 @@ BASE_DIR = Path(__file__).resolve().parent
 DB_PATH = BASE_DIR / "database" / "crypto.db"
 
 conn = sqlite3.connect(DB_PATH)
+BASE_DIR = Path(__file__).resolve().parent
+
+st.write(BASE_DIR)
+st.write(DB_PATH)
+st.write(DB_PATH.exists())
 
 df = pd.read_sql(
     "SELECT * FROM crypto_market",
