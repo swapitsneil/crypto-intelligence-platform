@@ -6,4 +6,4 @@ plotly
 pandas
 requests
 python-dotenv
-openai
+google-genai
