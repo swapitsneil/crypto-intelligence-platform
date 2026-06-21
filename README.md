@@ -154,6 +154,7 @@ The Power BI solution consists of three dashboard pages.
 
 ## Dashboard 1 — Market Overview
 
+![Power BI Dashboard 1](screenshots/powerbi/powerbi_dash_1.png)
 
 Features:
 
@@ -168,6 +169,8 @@ Features:
 
 ## Dashboard 2 — Market Intelligence
 
+![Power BI Dashboard 2](screenshots/powerbi/powerbi_dash_2.png)
+
 Features:
 
 - BTC Dominance
@@ -181,6 +184,8 @@ Features:
 ---
 
 ## Dashboard 3 — Advanced Analytics
+
+![Power BI Dashboard 3](screenshots/powerbi/powerbi_dash_3.png)
 
 Features:
 
