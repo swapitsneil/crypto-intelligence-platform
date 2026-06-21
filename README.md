@@ -8,11 +8,7 @@ The platform collects live cryptocurrency market data, processes it through a mo
 
 ## 🌐 Live Demo
 
-Streamlit Cloud:
-
-```text
-https://kkd9lh2h9sstchadvjvbc3.streamlit.app/
-```
+Streamlit Cloud: https://kkd9lh2h9sstchadvjvbc3.streamlit.app/
 
 ---
 
@@ -478,17 +474,10 @@ Skills:
 - Machine Learning
 - Generative AI
 
-GitHub:
+GitHub: https://github.com/swapitsneil
 
-```text
-https://github.com/swapitsneil
-```
 
-LinkedIn:
-
-```text
-Add your LinkedIn profile here
-```
+LinkedIn: 
 
 ---
 
