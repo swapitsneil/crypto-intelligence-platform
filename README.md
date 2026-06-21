@@ -8,10 +8,10 @@ The platform collects live cryptocurrency market data, processes it through a mo
 
 ## 🌐 Live Demo
 
-Add your Streamlit Cloud URL here:
+Streamlit Cloud:
 
 ```text
-https://your-streamlit-app.streamlit.app
+https://kkd9lh2h9sstchadvjvbc3.streamlit.app/
 ```
 
 ---
