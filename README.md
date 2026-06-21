@@ -158,6 +158,7 @@ The Power BI solution consists of three dashboard pages.
 
 ## Dashboard 1 — Market Overview
 
+
 Features:
 
 - Total Coins
@@ -200,6 +201,8 @@ Interactive web application providing:
 
 ## Overview
 
+![Overview Dashboard](screenshots/streamlit/overview.png)
+
 - KPI Monitoring
 - Top Gainers
 - Top Losers
@@ -207,11 +210,15 @@ Interactive web application providing:
 
 ## Market Intelligence
 
+![Market Intelligence Dashboard](screenshots/streamlit/market_intelligence.png)
+
 - Volume Analysis
 - Market Cap Analysis
 - Treemap Visualization
 
 ## AI Market Analyst
+
+![AI Market Analyst Dashboard](screenshots/streamlit/ai_market_analysis.png)
 
 Powered by Google Gemini.
 
