@@ -322,29 +322,6 @@ database/crypto.db
 
 ---
 
-# 📸 Project Screenshots
-
-## Streamlit Dashboard
-
-Add screenshots:
-
-```text
-screenshots/overview.png
-screenshots/market_intelligence.png
-screenshots/ai_market_analyst.png
-```
-
-## Power BI Dashboard
-
-Add screenshots:
-
-```text
-screenshots/powerbi_dashboard_1.png
-screenshots/powerbi_dashboard_2.png
-screenshots/powerbi_dashboard_3.png
-```
-
----
 
 # 🚀 Installation
 
