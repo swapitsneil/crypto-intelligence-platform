@@ -539,7 +539,7 @@ LinkedIn: https://www.linkedin.com/in/swapnil-nicolson-dadel/
 
 Please consider starring the repository.
 
-⭐ Star the repo
-🍴 Fork the project
-📢 Share your feedback
+- ⭐ Star the repo
+- 🍴 Fork the project
+- 📢 Share your feedback
 
