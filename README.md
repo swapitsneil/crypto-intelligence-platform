@@ -524,6 +524,8 @@ Skills:
 - SQL
 - Power BI
 - Streamlit
+- MS Excel
+- Cloud 
 - Data Engineering
 - Machine Learning
 - Generative AI
